@@ -1,7 +1,7 @@
 # RiceReseqCNV
 Mining CNV based on rice Nipponbare genome using resequencing data.
 
-If you have any questions, suggestions or interests about this project, please feel free to contact: chenomics@163.com or zhuochen@genetics.ac.cn.
+If you have any questions, suggestions or interests about this project, please feel free to contact: chenomics@163.com or zhuochen@fafu.edu.cn
 
 ## 1. Description
 Accessions with high depth (> 20 × ) short-read resequencing data were used to detect copy number variations based on the Nipponbare genome (IRGSP1.0). 
